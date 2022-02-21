@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aidanpinard
 - 👀 I’m interested in random code things.
-- 🌱 I’m currently learning C++ and hopefully restart learning F# soon.
+- 🌱 I’m currently learning C# and hopefully restart learning F# soon (and I know a bit of C++ and JS).
 - 📫 You can contact me at my email aidan@aidanpinard.co
 
 <!---
