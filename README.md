@@ -13,7 +13,6 @@ I'm a guy who thinks computers are cool. I'm currently at UWI St. Augustine for 
 - [X] F# - Accidentally happened upon it and learned about the existence of functional programming.
 - [X] C# - Started using it at an internship, picked it up super quickly thanks in part to learning F#.
 - [X] Powershell - Used it to automate a bunch of stuff when I used Windows. Super easy to script with.
-- [ ] V - Discovered while browsing github, super easy to learn/use (assuming it doesn't bug out). Still in alpha but I hope to use it in future!
 - [ ] Rust - Watched some tech talks about it and got interested. One of my favorite programs, [Czkawka](https://github.com/qarmin/czkawka) is written in Rust.
 
 
