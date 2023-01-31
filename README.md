@@ -17,8 +17,8 @@ I'm a guy who thinks computers are cool. I'm currently at UWI St. Augustine for 
 - Rust - Watched some tech talks about it and got interested. One of my favorite programs, [Czkawka](https://github.com/qarmin/czkawka) is written in Rust.
 
 
-![](https://raw.githubusercontent.com/aidanpinard/github-stats/master/generated/overview.svg#gh-dark-mode-only)[^1]
+![](https://raw.githubusercontent.com/jeiang/github-stats/master/generated/overview.svg#gh-dark-mode-only)[^1]
 
-![](https://raw.githubusercontent.com/aidanpinard/github-stats/master/generated/languages.svg#gh-dark-mode-only)[^1]
+![](https://raw.githubusercontent.com/jeiang/github-stats/master/generated/languages.svg#gh-dark-mode-only)[^1]
 
 [^1]: Stats generated using this [stats generator](https://github.com/joiellantero/github-stats)
