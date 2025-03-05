@@ -31,8 +31,8 @@ I'm a guy who thinks computers are cool. I'm currently working at CIBC Caribbean
 
 Check out [my website](https://aidanpinard.co)!
 
-![](https://raw.githubusercontent.com/jeiang/github-stats/master/generated/overview.svg#gh-dark-mode-only)[^1]
+![](https://raw.githubusercontent.com/jeiang/github-stats/refs/heads/master/generated/overview.svg)[^1]
 
-![](https://raw.githubusercontent.com/jeiang/github-stats/master/generated/languages.svg#gh-dark-mode-only)[^1]
+![](https://raw.githubusercontent.com/jeiang/github-stats/refs/heads/master/generated/languages.svg)[^1]
 
 [^1]: Stats generated using this [stats generator](https://github.com/joiellantero/github-stats)
