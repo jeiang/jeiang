@@ -94,4 +94,6 @@ I'm a guy from Trinidad & Tobago who likes programming.
 <div>
   <img src="https://raw.githubusercontent.com/jeiang/github-stats/refs/heads/master/generated/overview.svg#gh-dark-mode-only" alt="github overview"  />
   <img src="https://raw.githubusercontent.com/jeiang/github-stats/refs/heads/master/generated/languages.svg#gh-dark-mode-only" alt="github language overview"  />
+  <img src="https://raw.githubusercontent.com/jeiang/github-stats/refs/heads/master/generated/overview.svg#gh-light-mode-only" alt="github overview"  />
+  <img src="https://raw.githubusercontent.com/jeiang/github-stats/refs/heads/master/generated/languages.svg#gh-light-mode-only" alt="github language overview"  />
 </div>
