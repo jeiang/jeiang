@@ -33,11 +33,11 @@
 
 I'm a guy from Trinidad & Tobago who likes programming.
 
-- 🔭 I’m working as a software developer at [CIBC Caribbean](https://www.cibcfcib.com).
-- 📚 I'm currently learning Spring Boot & Solid.js.
-- ⚡ In my free time I try to work on a [6502 emulator](http://github.com/jeiang/6502-emulator), or run stuff on my server, which hosts [my website](https://jeiang.dev).
-- 🎮 My current interests are F1 and Balatro.
-- 💻 My top languages right now are Zig, Rust and Go.
+- 🔭 I’m working as a DevOps Engineer at [CIBC Caribbean](https://www.cibccaribbean.com).
+- 📚 I'm currently learning Kubernetes & Nix.
+- ⚡ In my free time I work on [my NixOS configuration](http://github.com/jeiang/.dotfiles), or run stuff on my server, which hosts [my website](https://jeiang.dev).
+- 🎮 My current interests are F1 and Marvel Rivals.
+- 💻 My favorite languages right now are Zig, Rust and Go.
 
 ### 🛠 Languages and tools
 
